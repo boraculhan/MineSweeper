@@ -1,5 +1,4 @@
 # Nostalgia brought back with pygame!
----
 This repository is a modern version of Mine Sweeper.
 
 To test it out, I suggest you to follow the theese steps:
@@ -15,7 +14,6 @@ conda create -n sweeper python=3.11.8 && conda activate sudoku && pip install -r
 python MineSweeper.py
 ```
 # Controls
----
 - "R" key resets the game.
 - "RMB" places/removes flags.
 - "LMB" opens tiles.
